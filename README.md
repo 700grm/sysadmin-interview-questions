@@ -146,11 +146,11 @@ A collection of Linux sysadmin/Devops interview questions. Feel free to contribu
   - grep -Rin "my konfi is the best" /folder
 
 * How to connect to a remote server or what is SSH?
-  - ssh user@server - simple way
+  - `ssh user@server` - simple way
   - SSH (secure shell) it's a cryptographic network protocol, used for remote login to computer systems by users.
 
 * How to get all environment variables and how can you use them?
-  - env, set or printenv, will show every variable that login session, we can use setting as variables ex.: TEST=something or using export the variable will be global (can be used by all system users)
+  - `env`, `set` or `printenv`, will show every variable that login session, we can use setting as variables ex.: TEST=something or using export the variable will be global (can be used by all system users)
 
 * I get "command not found" when I run ```ifconfig -a```. What can be wrong?
   - your PATH variable doesn't have the full path for the ifconfig command.
