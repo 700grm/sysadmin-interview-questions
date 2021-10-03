@@ -109,22 +109,22 @@ A collection of Linux sysadmin/Devops interview questions. Feel free to contribu
   - Level0 backup it's a full backup (all blocks), an after a level 0 backup, we can initializes an incremental backup rotine ( only the difference between the blocks)
 
 * Describe the general file system hierarchy of a Linux system.
-  - /  - root folder
-  - /etc - configuration files provided by the package manager
-  - /bin - binaries files
-  - /sbin - system  binaries files (important binaries for the OS)
-  - /boot - Static files for boot processes ( boot loader)
-  - /dev - Device files
-  - /lib - Essential shared libraries and kernel modules
-  - /usr - Secundary hierarchy
-  - /mnt - Mounting point for temporary filesystem
-  - /media - Mounting point for removable media
-  - /opt - Add-on application software packages
-  - /srv - Data service provided by this system
-  - /tmp - Temporary files
-  - /var - Variable data
-  - /root - Root user folder
-  - /home - Home users folders
+  - `/`  - root folder
+  - `/etc` - configuration files provided by the package manager
+  - `/bin` - binaries files
+  - `/sbin` - system  binaries files (important binaries for the OS)
+  - `/boot` - Static files for boot processes ( boot loader)
+  - `/dev` - Device files
+  - `/lib` - Essential shared libraries and kernel modules
+  - `/usr` - Secundary hierarchy
+  - `/mnt` - Mounting point for temporary filesystem
+  - `/media` - Mounting point for removable media
+  - `/opt` - Add-on application software packages
+  - `/srv` - Data service provided by this system
+  - `/tmp` - Temporary files
+  - `/var` - Variable data
+  - `/root` - Root user folder
+  - `/home` - Home users folders
 
 
 ####[[⬆]](#toc) <a name='simple'>Simple Linux Questions:</a>
