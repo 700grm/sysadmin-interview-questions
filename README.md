@@ -133,13 +133,13 @@ A collection of Linux sysadmin/Devops interview questions. Feel free to contribu
   - root, 0
 
 * How to list all files, including hidden ones, in a directory?
-  - ls -a or find .
-
+  - `ls -a` or `find .
+`
 * What is the Unix/Linux command to remove a directory and its contents?
-  - rm -R
+  - `rm -R`
 
 * Which command will show you free/used memory? Does free memory exist on Linux?
-  - free
+  - `free`
   - Sure exists, but the Linux kernel creates file caches in ram, so when we see the output from free command, sometimes can show us that we are without memory but this memory is cached by the OS.
 
 * How to search for the string "my konfi is the best" in files of a directory recursively?
