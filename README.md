@@ -518,6 +518,12 @@ A collection of Linux sysadmin/Devops interview questions. Feel free to contribu
 * What are cgroups? Can you specify a scenario where you could use them?
   - Cgroups are a Linux kernel feature that allow limit the resource use for a group of process(CPU, memory, disk I/O). A scenario to use could be to test a software in a physical machine that has a big hardware, and make this software run a minimum configuration, a very common sofware that uses cgroups it's in contairners ( docker, crio).
 
+* How to replace a string in multiple files in linux command line?
+-  sed -i 's/foo/bar/g' *
+- find / -type f -exec sed -i 's/foo/bar/g' {} \;
+Replace foo with bar on all .txt files:
+- rpl -v foo bar '*.txt'
+
 
 ####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
 
