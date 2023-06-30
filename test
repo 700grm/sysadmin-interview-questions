@@ -1,14 +1,4 @@
-Automation is a fundamental principle that I consistently prioritize. In any new project, I firmly believe that automation, coupled with Infrastructure as Code (IaC), should play a pivotal role. By leveraging automation, we not only foster consistency in our processes but also expedite the initial deployment phase. Moreover, it enables us to deliver products to our customers with remarkable speed, ensuring swift and efficient outcomes. Embracing automation empowers us to streamline operations, enhance productivity, and effectively respond to the ever-changing demands of our customers.
-###############
-Get it done
-################
-1) Deliver the approved business case and realisation of benefits for the Hosting Landing Zone project
-2) Deliver the Strategic Investment Outcomes in the FY23/24 ECR; on time, on budget and to the agreed scope and benefits
-################
-What are the activities you will carry out to achieve this outcome? - Personalise to make relevant
-
-While my work doesn't directly influence the delivery of HLZ (Yet) the work I do with my team on the delivery of automated VMs to be deployed onto HLZ in the RHEL space and the content delivery service Satellite plays in allowing the successful deployment and patching of those VMs will effect the success of the platform. 
-################
+Although my current work does not have a direct impact on the delivery of the Hosting Landing Zone (HLZ) project, the contributions I make with my team in automating virtual machines (VMs) to be deployed on the HLZ platform within the RHEL environment,
 ################
 Development goal
 ################
