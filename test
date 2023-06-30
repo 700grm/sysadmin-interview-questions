@@ -1,0 +1,85 @@
+######
+Focused, fit and fast
+1) Ensure Infrastructure Platforms and Products are updated and maintained in line with risk appetite and vendor roadmaps - 
+
+Kollective - Ensure platform is handed over to BAU support with the latest updates, that the user guide reflects the current deployment status and 3rd parties are clear on the net steps. 
+RHEL8 - Continue to support the automation of RHEL8 using Ansible/Terraform/Packer. Cont
+RHEL9 - Continue to support the roadmap for delivering RHEL9
+Patch Automation - Lead the patch automation function to deliver automated patching on RHEL8+, with the hope of moving it to RHEL7
+AppviewX - Support the build team in delivering AppViewX updates using RHEL8 and Containerization
+
+2) Fulfil all regulatory responsibilities, ensuring timely management of all audits, oversight and controls testing actions 
+
+Design/Implementation of the Kollective Project included Pen testing, CIS testing and User testing to ensure the system was secure and met the regulatory benchmarks NBS expect
+
+########
+What are the activities you will carry out to achieve this outcome? - Personalise to make relevant
+
+Regular meetings with the Project teams
+
+Keeping my skills relevant in the technologies
+
+Regularly communicate issues being faced, and work with colleagues to overcome those issues
+
+Work on soft skills to increase my effectiveness in leading and getting results from collaborations
+
+How will you know when you’re successful? 
+
+Depending on the project/work success is measured in different ways, if it's a dedicated piece of project work then success is generally when AIS is accepted and the BAU teams have take ownership of the work. To get this far you've architected, designed, built, tested and remediated any issues. 
+
+################
+################
+Simply Brilliant Service
+#################
+I always embrace automation first. Automation along with IaC should play a huge part in any new projects, it promotes consistency, speed of the initial deployment but most importantly allows us to get products to our customers quickly. 
+
+As a snr Tech I need to demonstrate these behaviours by including automation in all of the designs/documents I produce but as a manager by encouraging my team to embrace automation first and pushing them to think about the current infrastructure and how we can automate it. 
+################
+###############
+Get it done
+################
+1) Deliver the approved business case and realisation of benefits for the Hosting Landing Zone project
+2) Deliver the Strategic Investment Outcomes in the FY23/24 ECR; on time, on budget and to the agreed scope and benefits
+################
+What are the activities you will carry out to achieve this outcome? - Personalise to make relevant
+
+While my work doesn't directly influence the delivery of HLZ (Yet) the work I do with my team on the delivery of automated VMs to be deployed onto HLZ in the RHEL space and the content delivery service Satellite plays in allowing the successful deployment and patching of those VMs will effect the success of the platform. 
+################
+################
+Development goal
+################
+We all need to think about our own learning and development. This may be exploring new opportunities, taking on new experiences or keeping skills up to date for your role. We need to continuously push for better and take responsibility of our own personal development. Things to consider (but not limited too) when deciding your outcome are: What development is relevant to both myself and my role? What skills do I need to fulfil my role? What will make the biggest impact to both myself and my performance? What are my team's deliverables and where are my gaps? How will this contribute towards our strategy? - Personalise to make relevant.
+#################
+I'm a strong advocate of personal development, not only because it helps you in your current role but because in this fast moving market your skills become stale unless you're moving forward!
+
+I'm currently studying for the HashiCorp Certified: Terraform Associate (003) qualification and hope to sit the exam in around two months. 
+
+I'd also like to renew my AWS certified architect exam having previously sat it in 2017
+###################
+###################
+1) What a good goal looks like
+###################
+To complete work to a consistently high standard, making sure the work is documented, approved and fits within Nationwide approved patterns and standards.
+###################
+Nationwide work must be to a high level, as a senior technical person it's my responsibility to produce work others can aspire too. 
+
+Work should include the following;
+
+Scope of work
+
+Capacity report
+
+Approved Infrastructure Design (containing some of these specifics)
+
+Architectural Design
+Consumed Patterns
+Data Flow
+Access and Security
+Groups to be requested
+Consumed services
+Approved Network Design
+Decommissioning plan for Infrastructure being replaced
+Document Change control
+
+KB articles showing run guides (if appropriate) to the platform
+############################
