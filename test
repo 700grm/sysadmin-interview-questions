@@ -1,17 +1,13 @@
 ######
-Focused, fit and fast
-1) Ensure Infrastructure Platforms and Products are updated and maintained in line with risk appetite and vendor roadmaps - 
-
-Kollective - Ensure platform is handed over to BAU support with the latest updates, that the user guide reflects the current deployment status and 3rd parties are clear on the net steps. 
-RHEL8 - Continue to support the automation of RHEL8 using Ansible/Terraform/Packer. Cont
-RHEL9 - Continue to support the roadmap for delivering RHEL9
-Patch Automation - Lead the patch automation function to deliver automated patching on RHEL8+, with the hope of moving it to RHEL7
-AppviewX - Support the build team in delivering AppViewX updates using RHEL8 and Containerization
+SAP HANA - Continue to support automation and delivery on RHEL 8.4
+LoZ -  Continue to support automation and delivery of Qualys Cloud Agent
+DynaTRace - Continue to support automation and delivery of DynaTrace Active Gate and AgentOne
+ELK - Lead ELK Beats monitoring agents intergration, automation and delivery with RHEL8
+TFL to GitHub -  Continue to source code move to GitHub from TFL, to allow better
 
 2) Fulfil all regulatory responsibilities, ensuring timely management of all audits, oversight and controls testing actions 
 
-Design/Implementation of the Kollective Project included Pen testing, CIS testing and User testing to ensure the system was secure and met the regulatory benchmarks NBS expect
-
+Continuously review code and system configurations in alignment with the latest CIS Benchmarks and industry standards.
 ########
 What are the activities you will carry out to achieve this outcome? - Personalise to make relevant
 
